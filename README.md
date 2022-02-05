@@ -22,5 +22,5 @@
 | `(/)<lxs 鲁迅说> [xxx]` | 获得鲁迅说`xxx`的表情包 |
 
 ## 安装
-- 从 [Releases](https://github.com/Echoosx/MemeSeeker/releases) 下载`jar`包，将其放入工作目录下`plugins`文件夹
+- 从 [Releases](https://github.com/Echoosx/LuxunSaid/releases) 下载`jar`包，将其放入工作目录下`plugins`文件夹
 - 如果没有`plugins`文件夹，先运行 [Mirai Console](https://github.com/mamoe/mirai-console) ，会自动生成
