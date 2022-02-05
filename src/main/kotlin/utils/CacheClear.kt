@@ -19,6 +19,7 @@ class CacheClear : TimerTask() {
         when (if (tmp.exists()) tmp.deleteRecursively() else null) {
             true -> LuxunSaid.logger.info { "缓存已自动清理" }
             false -> LuxunSaid.logger.info { "缓存清理失败" }
+            else -> {}
         }
     }
 }
