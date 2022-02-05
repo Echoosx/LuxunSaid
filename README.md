@@ -1,6 +1,6 @@
 # LuxunSaid
 
-> 基于 [Mirai Console](https://github.com/mamoe/mirai-console) 的 查梗插件
+> 基于 [Mirai Console](https://github.com/mamoe/mirai-console) 的 表情包生成插件
 
 [![Release](https://img.shields.io/github/v/release/Echoosx/LuxunSaid)](https://github.com/Echoosx/LuxunSaid/releases)
 [![Build](https://github.com/Echoosx/LuxunSaid/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=master)](https://github.com/Echoosx/LuxunSaid/actions/workflows/gradle.yml)
