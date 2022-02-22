@@ -39,7 +39,7 @@ object LuxunSaidCommand:SimpleCommand(
     @Suppress("unused")
     @Handler
     suspend fun CommandSender.handle(vararg args:String){
-        val text = args.joinToString("")
+        val text = args.joinToString(" ")
         if(text == "") return
 
         val name = "———鲁迅"
