@@ -14,7 +14,7 @@ object LuxunSaid : KotlinPlugin(
     JvmPluginDescription(
         id = "org.echoosx.mirai.plugin.LuxunSaid",
         name = "LuxunSaid",
-        version = "0.1.0"
+        version = "1.0.2"
     ) {
         author("Echoosx")
     }
